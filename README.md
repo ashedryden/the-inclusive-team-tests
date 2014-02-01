@@ -69,6 +69,7 @@ Here's an example test, we'll call it The Ada Test after [Ada Lovelace](http://e
 9. Are women able to openly discuss problems with how they are treated and are those issues acted upon afterwards?
 10. When a woman requests consideration for a uniquely female personal matter, are those requests honored?
 11. Are women given the same level of respect as non-women?
+
 ### Further Detail on the Questions
 
 **1. Does the ratio of women to non-women match your local census polls?**
